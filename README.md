@@ -60,8 +60,6 @@ The admin panel is made with ReactJS.
 The backend is all NodeJS
 
 
-You can follow the youtube series in the following [link](https://www.youtube.com/watch?v=xE8UEX7vXVQ&list=PLxabZQCAe5fgatwOQny9wKJVs4YD6xkf1)
-
 ## 🆕 Getting Started
 
 - ### **Prerequisites**
@@ -69,14 +67,5 @@ You can follow the youtube series in the following [link](https://www.youtube.co
   - [React Native](https://reactnative.dev/)
   - [Expo](https://expo.dev/)
   - [Firebase](https://firebase.google.com/)
-
-<!-- GETTING STARTED -->
-
-
-
-
-## 📝 License
-
-Copyright © 2021 [SimCoder](https://github.com/GuriWarval).
 
 
